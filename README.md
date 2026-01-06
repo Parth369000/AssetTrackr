@@ -87,8 +87,3 @@ Contributions are welcome. To contribute:
 ## License
 
 This repository does not include a license file. Add a `LICENSE` if you intend to open-source under a specific license.
-
----
-
-Notes:
-- I updated the README to improve clarity, structure, and instructions for setup and configuration. If you want, I can also add example screenshots and badges, or tailor the configuration instructions to the exact API variable names used in your codebase.
